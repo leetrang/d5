@@ -1,0 +1,32 @@
+[
+    {
+        "id": "C01",
+        "name": "DELL Insprion",
+        "co": "China",
+        "price": 1029
+    },
+    {
+        "id": "C02",
+        "name": "Sony Viao",
+        "co": "Japan",
+        "price": 1300
+    },
+    {
+        "id": "C03",
+        "name": "Asus 3300",
+        "co": "Taiwan",
+        "price": 960
+    },
+    {
+        "id": "C04",
+        "name": "HP Envy",
+        "co": "USA",
+        "price": 1250
+    },
+    {
+        "id": "C05",
+        "name": "Lenovo Thinkpad",
+        "co": "China",
+        "price": 1049
+    }
+]
